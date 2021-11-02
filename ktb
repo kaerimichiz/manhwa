@@ -6,50 +6,20 @@
   "cover": "https://uploads.mangadex.org/covers/1d0672c6-ae30-4ce0-a272-eaef33e9fd97/1e9ac4fd-f8bc-45af-a4bf-eac1cea7ade0.png",
   "chapters": {
     "1": {
-      "title": "Chapter 30",
-      "season": "1",
       "groups": {
-        "Blyss": "https://mangadex.org/chapter/07250633-a947-486a-8f5c-3ccf62b7e677"
+        "": "/read/mangadex/1d0672c6-ae30-4ce0-a272-eaef33e9fd97/4/1/"
       },
       "last_updated": "1632696012"
     },
-    "31": {
-      "title": "Chapter 31",
-      "season": "1",
+    "2": {
       "groups": {
-        "Blyss": "/proxy/api/imgur/chapter/Q8i0ZKc/"
+        "": "/read/mangadex/1d0672c6-ae30-4ce0-a272-eaef33e9fd97/4/1/"
       },
       "last_updated": "1632696012"
     },
     "32": {
-      "title": "Chapter 32",
-      "season": "1",
       "groups": {
-        "Blyss": "/proxy/api/imgur/chapter/QEqfcLZ/"
-      },
-      "last_updated": "1632696012"
-    },
-    "33": {
-      "title": "Chapter 33",
-      "season": "1",
-      "groups": {
-        "Blyss": "/proxy/api/imgur/chapter/7FqdUqI/"
-      },
-      "last_updated": "1632696012"
-    },    
-    "34": {
-      "title": "Chapter 34",
-      "season": "1",
-      "groups": {
-        "Blyss": "/proxy/api/imgur/chapter/5zljPny/"
-      },
-      "last_updated": "1632696012"
-    },
-    "35": {
-      "title": "Chapter 35",
-      "season": "1",
-      "groups": {
-        "Blyss": "/proxy/api/imgur/chapter/WXNQkaz/"
+        "": "/proxy/api/imgur/chapter/QEqfcLZ/"
       },
       "last_updated": "1632696012"
     }
